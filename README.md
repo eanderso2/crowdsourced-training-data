@@ -11,6 +11,16 @@ please do not add anything retating to politics
 
 please do not add anything that is not yours to share (liturature not in the public domain)
 
-## what should I be adding:
+## what should I be addin?
 
 anything related to science, mathamatics, geography, liturature
+
+## how do I add things?
+
+1: go to the 'data' file
+
+2: press on the pencil icon
+
+3: add your text
+
+4: commit
