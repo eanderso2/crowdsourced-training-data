@@ -11,11 +11,13 @@ please do not add anything retating to politics
 
 please do not add anything that is not yours to share (liturature not in the public domain)
 
-## what should I be adding?
+## frequently acked questions:
+
+### what should I be adding?
 
 anything related to science, mathamatics, geography, liturature
 
-## how do I add things?
+### how do I add things?
 
 1: go to the 'data' file
 
@@ -24,3 +26,7 @@ anything related to science, mathamatics, geography, liturature
 3: add your text
 
 4: commit
+
+### can i use this anyware?
+
+yes! you can use our data in any of your projects
