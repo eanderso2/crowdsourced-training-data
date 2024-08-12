@@ -1,6 +1,6 @@
 # crowdsourced-training-data
 
-## guidlines:
+## comunity guidlines:
 
 
 please do not add anything inapropriate
